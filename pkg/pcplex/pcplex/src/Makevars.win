@@ -1,3 +1,0 @@
-PKG_CPPFLAGS=-I/c/ilog/cplex111/include
-
-PKG_LIBS=-L/c/Archivos de programa/ILOG/CPLEX_Studio122/cplex/lib/x86_windows_vs2008/stat_mda -lcplex122 -lm
